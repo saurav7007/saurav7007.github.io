@@ -54,3 +54,37 @@ section h2 {
 ul {
   margin: 0.5rem 0 0.5rem 1.5rem;
 }
+
+.timeline {
+  position: relative;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 2px solid #bbb; /* vertical line */
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 20px;
+}
+
+.timeline-item .circle {
+  position: absolute;
+  left: -31px;
+  top: 5px;
+  width: 14px;
+  height: 14px;
+  background: #fff;
+  border: 3px solid #4a7c3a; /* green border */
+  border-radius: 50%;
+}
+
+.timeline-item .content {
+  padding-left: 10px;
+}
+
+.timeline-item .date {
+  float: right;
+  font-style: italic;
+  color: #444;
+}
