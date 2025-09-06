@@ -88,3 +88,25 @@ ul {
   font-style: italic;
   color: #444;
 }
+
+.print-btn {
+  background-color: #4a7c3a; /* green like your name heading */
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 5px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.print-btn:hover {
+  background-color: #3a632e;
+}
+
+/* Hide the button when printing */
+@media print {
+  .print-btn {
+    display: none;
+  }
+}
