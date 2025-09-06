@@ -110,3 +110,26 @@ ul {
     display: none;
   }
 }
+
+.toggle-btn {
+  background-color: #4a7c3a;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-top: 8px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  background-color: #3a632e;
+}
+
+.details {
+  display: none;   /* hidden by default */
+  margin-top: 10px;
+  padding: 10px;
+  background: #f8f8f8;
+  border-left: 3px solid #4a7c3a;
+}
