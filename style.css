@@ -1,0 +1,56 @@
+body {
+  font-family: "Georgia", serif;
+  background: #fff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+  padding: 2rem;
+}
+
+header {
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  color: #4a7c3a; /* green highlight */
+  font-size: 2.2rem;
+  margin: 0;
+}
+
+header .contact {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+section h2 {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.item {
+  margin-bottom: 1rem;
+}
+
+.date {
+  float: right;
+  font-style: italic;
+  color: #444;
+}
+
+ul {
+  margin: 0.5rem 0 0.5rem 1.5rem;
+}
