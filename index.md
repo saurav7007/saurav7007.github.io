@@ -20,11 +20,19 @@
 
 ## 📖 Tutorials
 
-### Genomics
+<details>
+<summary><h3>Genomics</h3></summary>
+
 *   RNA-Seq Analysis
 
-### Proteomics
+</details>
+
+<details>
+<summary><h3>Proteomics</h3></summary>
+
 *   Molecular Dynamic simulation
     *   [Transmembrane simulation on Schrodinger](schr-tramb.md)
+
+</details>
 
 <hr>
