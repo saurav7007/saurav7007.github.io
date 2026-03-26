@@ -21,14 +21,13 @@
 ## 📖 Tutorials
 
 <details>
-<summary><h3>🧬 Genomics</h3></summary>
+<summary><b>🧬 Genomics</b></summary>
 
 *   RNA-Seq Analysis
 
 </details>
-
 <details>
-<summary><h3>🔬 Proteomics</h3></summary>
+<summary><b>🔬 Proteomics</b></summary>
 
 *   Molecular Dynamic simulation
     *   [Transmembrane simulation on Schrodinger](schr-tramb.md)
