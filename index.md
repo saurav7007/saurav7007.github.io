@@ -28,8 +28,6 @@
 
 </details>
 
-<br>
-
 <details>
 <summary><b>🔬 Proteomics</b></summary>
 
