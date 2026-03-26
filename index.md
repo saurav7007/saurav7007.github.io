@@ -13,22 +13,22 @@
 
 ## 🔬 Projects
 
-*   [**🎓 Bachelor's Project (B.Tech. Thesis)**](bsc-project.md) — *Green Synthesis and Characterization of CQDs from Ginger Honey and its Biocompatibility Studies*
-*   [**🎓 Master's Project (M.Sc. Thesis)**](msc-project.md) — *Understanding Molecular Basis of HIV-1 Latency and Reactivation in in-vitro Infected Human Jurkat-T Cell using lncRNA and mRNA Microarray*
+*   [**🎓 Bachelor's Project (B.Tech. Thesis)**](bsc-project.md): *Green Synthesis and Characterization of CQDs from Ginger Honey and its Biocompatibility Studies*
+*   [**🎓 Master's Project (M.Sc. Thesis)**](msc-project.md): *Understanding Molecular Basis of HIV-1 Latency and Reactivation in in-vitro Infected Human Jurkat-T Cell using lncRNA and mRNA Microarray*
 
 <br>
 
 ## 📖 Tutorials
 
 <details>
-<summary><h3>Genomics</h3></summary>
+<summary><h3>🧬 Genomics</h3></summary>
 
 *   RNA-Seq Analysis
 
 </details>
 
 <details>
-<summary><h3>Proteomics</h3></summary>
+<summary><h3>🔬 Proteomics</h3></summary>
 
 *   Molecular Dynamic simulation
     *   [Transmembrane simulation on Schrodinger](schr-tramb.md)
