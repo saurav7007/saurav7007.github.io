@@ -29,6 +29,8 @@
 
 </details>
 
+<br>
+
 <details markdown="1">
 <summary><b>🔬 Proteomics</b></summary>
 
