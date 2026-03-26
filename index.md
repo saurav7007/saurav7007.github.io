@@ -22,16 +22,24 @@
 
 <details>
 <summary><b>🧬 Genomics</b></summary>
+<br>
 
 *   RNA-Seq Analysis
 
 </details>
+
+<br>
+
 <details>
 <summary><b>🔬 Proteomics</b></summary>
+
+<br>
 
 *   Molecular Dynamic simulation
     *   [Transmembrane simulation on Schrodinger](schr-tramb.md)
 
 </details>
+
+<br>
 
 <hr>
