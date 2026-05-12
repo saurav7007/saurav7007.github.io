@@ -36,8 +36,7 @@
 
 <br>
 
-*   Molecular Dynamic simulation
-    *   [Transmembrane simulation on Schrodinger](https://github.com/saurav7007/Transmembrane-simulation-on-Schrodinger)
+*   Molecular Dynamics simulation
 
 </details>
 
